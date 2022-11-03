@@ -6,7 +6,7 @@
 
 [SQL Project: Iceland Travel Analysis](https://hsiehhsinyu-hh2890.shinyapps.io/Iceland/)
 
-[Introduction](/pdf/5310_team6.pdf)
+Introduction: [link to presentation](/pdf/5310_team6.pdf)
 
 ---
 [Data Consultant (R) Project: Starbucks' Yelp Reviews Report](https://hsiehhsinyu-hh2890.shinyapps.io/Starbucks_Dynamic_Report/)
