@@ -5,15 +5,15 @@
 ### Data Analysis 
 
 [SQL Project: Iceland Travel Analysis](https://hsiehhsinyu-hh2890.shinyapps.io/Iceland/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Python Project: Amazon's Reviews Analysis](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Introduction](/pdf/sample_presentation.pdf)
 
 ---
 [Data Consultant (R) Project: Starbucks' Yelp Reviews Report](https://hsiehhsinyu-hh2890.shinyapps.io/Starbucks_Dynamic_Report/)
 <img src="images/starbucks.jpeg?raw=true"/>
+
+---
+[Python Project: Amazon's Reviews Analysis](/pdf/sample_presentation.pdf)
 
 ---
 
