@@ -20,8 +20,6 @@ Introduction: [link to presentation](/pdf/5310_team6.pdf)
 ### Data Modeling
 
 - [Kaggle: Rent Prediction](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
