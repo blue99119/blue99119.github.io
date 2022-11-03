@@ -12,8 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Data Consultant (R) Project: Yelp's Reviews Analysis](https://hsiehhsinyu-hh2890.shinyapps.io/Starbucks_Dynamic_Report/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Data Consultant (R) Project: Starbucks' Yelp Reviews Report](https://hsiehhsinyu-hh2890.shinyapps.io/Starbucks_Dynamic_Report/)
+<img src="images/starbucks.jpeg?raw=true"/>
 
 ---
 
