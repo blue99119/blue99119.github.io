@@ -2,26 +2,24 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis 
 
-[Project 1 Title](/sample_page)
+[SQL Project: Iceland Travel Analysis](https://hsiehhsinyu-hh2890.shinyapps.io/Iceland/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Python Project: Amazon's Reviews Analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Data Consultant (R) Project: Yelp's Reviews Analysis](https://hsiehhsinyu-hh2890.shinyapps.io/Starbucks_Dynamic_Report/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Data Modeling
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Kaggle: Rent Prediction](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
