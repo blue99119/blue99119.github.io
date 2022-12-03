@@ -6,7 +6,7 @@
 
 [SQL Project: Iceland Travel Analysis](https://hsiehhsinyu-hh2890.shinyapps.io/Iceland/)
 
-Introduction: [link to presentation](/pdf/5310_team6.pdf), [link to video]()
+Introduction: [link to presentation](/pdf/5310_team6.pdf), [link to video](https://youtu.be/s-ZYGeIUtMs)
 
 ---
 [Data Consultant (R) Project: Starbucks' Yelp Reviews Report](https://hsiehhsinyu-hh2890.shinyapps.io/Starbucks_Dynamic_Report/)
@@ -19,7 +19,7 @@ Introduction: [link to presentation](/pdf/5310_team6.pdf), [link to video]()
 
 ### Data Modeling
 
-- [Kaggle: Rent Prediction](http://example.com/)
+- [Kaggle: Rent Prediction](https://www.kaggle.com/competitions/predictlala2020)
 
 ---
 
