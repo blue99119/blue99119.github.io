@@ -9,7 +9,7 @@
 Introduction: [link to presentation](/pdf/5310_team6.pdf), [link to video](https://youtu.be/s-ZYGeIUtMs)
 
 ---
-[Data Consultant (R) Project: Starbucks' Yelp Reviews Report](https://hsiehhsinyu-hh2890.shinyapps.io/Starbucks_Dynamic_Report/)
+[Data Science Consuling Project (R): Starbucks' Yelp Reviews Report](https://hsiehhsinyu-hh2890.shinyapps.io/Starbucks_Dynamic_Report/)
 <img src="images/starbucks.jpeg?raw=true"/>
 
 ---
